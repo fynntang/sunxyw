@@ -4,7 +4,7 @@ I am sunxyw from HongKong who is a Noob and Open Source Contributor, loves Anime
 
 - 😄 Pronouns: He/him
 
-[![sunxyw's github stats](https://github-readme-stats.vercel.app/api?username=sunxyw)](https://github.com/sunxyw)
+[![sunxyw's github stats](https://github-readme-stats.vercel.app/api?username=sunxyw&show_icons=true)](https://github.com/sunxyw)
 
 ### Programming Languages 🌐
 
@@ -14,7 +14,7 @@ I am sunxyw from HongKong who is a Noob and Open Source Contributor, loves Anime
   | --- | ------ | ------ | ---------- | ------ |
 
 
-- Learning
+* Learning
 
   | TypeScript | Java |
   | ---------- | ---- |
@@ -28,7 +28,7 @@ I am sunxyw from HongKong who is a Noob and Open Source Contributor, loves Anime
   | --- | ------ | -------- | ---------------- | --- | --- | ------- |
 
 
-- Learning
+* Learning
 
   | Docker | Sentry | Kubernetes | Travis CI |
   | ------ | ------ | ---------- | --------- |
