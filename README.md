@@ -11,11 +11,13 @@ I am sunxyw from HongKong who is a Noob and Open Source Contributor, loves Anime
 - Know/Using
 
   | PHP | NodeJS | Python | JavaScript | GoLang |
+  | --- | ------ | ------ | ---------- | ------ |
 
 
 - Learning
 
   | TypeScript | Java |
+  | ---------- | ---- |
 
 
 ### Tools 🛠️
@@ -23,7 +25,11 @@ I am sunxyw from HongKong who is a Noob and Open Source Contributor, loves Anime
 - Know/Using
 
   | Git | VSCode | PHPStorm | Windows Terminal | WSL | Zsh | Postman |
+  | --- | ------ | -------- | ---------------- | --- | --- | ------- |
+
 
 - Learning
 
   | Docker | Sentry | Kubernetes | Travis CI |
+  | ------ | ------ | ---------- | --------- |
+
